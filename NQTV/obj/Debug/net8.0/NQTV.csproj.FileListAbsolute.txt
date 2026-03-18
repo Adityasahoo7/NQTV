@@ -1,0 +1,14 @@
+D:\DotNet Project\NQTV\NQTV\bin\Debug\net8.0\NQTV.exe
+D:\DotNet Project\NQTV\NQTV\bin\Debug\net8.0\NQTV.deps.json
+D:\DotNet Project\NQTV\NQTV\bin\Debug\net8.0\NQTV.runtimeconfig.json
+D:\DotNet Project\NQTV\NQTV\bin\Debug\net8.0\NQTV.dll
+D:\DotNet Project\NQTV\NQTV\bin\Debug\net8.0\NQTV.pdb
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.AssemblyInfoInputs.cache
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.AssemblyInfo.cs
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.csproj.CoreCompileInputs.cache
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.dll
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\refint\NQTV.dll
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.pdb
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.genruntimeconfig.cache
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\ref\NQTV.dll
