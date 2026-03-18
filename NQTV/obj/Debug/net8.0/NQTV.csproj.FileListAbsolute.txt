@@ -12,3 +12,4 @@ D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\refint\NQTV.dll
 D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.pdb
 D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.genruntimeconfig.cache
 D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\ref\NQTV.dll
+D:\DotNet Project\NQTV\NQTV\obj\Debug\net8.0\NQTV.sourcelink.json
