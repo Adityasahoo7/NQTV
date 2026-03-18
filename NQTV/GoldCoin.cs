@@ -39,8 +39,8 @@ namespace NQTV
         
         }
 
-        public static void Main(string[] args) {
-
+       // public static void Main(string[] args) {
+       public void code1() { 
             Console.Write("Enter the number of element in array");
             int num = int.Parse(Console.ReadLine());
 
